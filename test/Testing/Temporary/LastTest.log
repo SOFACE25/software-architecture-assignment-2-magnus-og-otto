@@ -1,0 +1,35 @@
+Start testing: Feb 05 18:06 Rom, normaltid
+----------------------------------------------------------
+Unable to find executable: c_tests
+1/2 Testing: wargame_c_tests
+1/2 Test: wargame_c_tests
+Command: ""
+Directory: C:/Users/Magn6/Desktop/Programmering/Softwarc/Uge 2/software-architecture-assignment-2-magnus-og-otto/test/test
+"wargame_c_tests" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"wargame_c_tests" end time: Feb 05 18:06 Rom, normaltid
+"wargame_c_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: cpp_tests
+2/2 Testing: wargame_cpp_tests
+2/2 Test: wargame_cpp_tests
+Command: ""
+Directory: C:/Users/Magn6/Desktop/Programmering/Softwarc/Uge 2/software-architecture-assignment-2-magnus-og-otto/test/test
+"wargame_cpp_tests" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"wargame_cpp_tests" end time: Feb 05 18:06 Rom, normaltid
+"wargame_cpp_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 05 18:06 Rom, normaltid

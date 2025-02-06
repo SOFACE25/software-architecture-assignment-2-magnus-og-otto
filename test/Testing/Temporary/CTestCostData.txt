@@ -1,0 +1,5 @@
+wargame_c_tests 0 0
+wargame_cpp_tests 0 0
+---
+wargame_c_tests
+wargame_cpp_tests
