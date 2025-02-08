@@ -1,0 +1,1 @@
+Vi er en kommandør der kontrollerer nogle forskellige enheder(objekter).
